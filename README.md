@@ -1,5 +1,9 @@
 # browser-gpt
-This Repo is for the source code of en extension. That can find business leads in 1 click.
+This Repo is for the source code of en extension. That can automate browser tasks.
+
+Roadmap
+1. Make it efficient to scrape leads on Google maps, websites etc.
+2. Make it efficient to do more generic task like given this person, Find information from all the social channels etc and create a summary.
 
 Demo video https://youtu.be/8kedtP6nNgQ
 
